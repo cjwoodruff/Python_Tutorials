@@ -1,3 +1,4 @@
+# Create the list and print it
 x = [1, 2, 3, 'Jon', 'Snow', True]
 print(x)
 
