@@ -12,9 +12,9 @@ print('x is now equal to 0')
 print("Type 'done' when you want to leave the loop.")
 while True:
     name = input('Please enter your name: ')
-    if name == '#'
+    if name == '#':
         continue
-    if name == 'done'
+    if name == 'done':
         break
     print(name)
 
