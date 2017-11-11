@@ -18,4 +18,4 @@ print(total)
 
 # This shows that we don't necessarily need to assign the value
 # to a variable. We can just print it out.
-print(myAdd(3,6))
+print(myAdd(3, 6))
