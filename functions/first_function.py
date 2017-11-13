@@ -7,6 +7,7 @@ def myAdd(num1, num2):
     
     arg_sum = num1 + num2
     return arg_sum
+    # This could also be done with: return num1 + num2
 
 
 #TESTING:
