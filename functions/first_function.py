@@ -1,6 +1,6 @@
 def myAdd(num1, num2):
     """The myAdd function takes two arguments (num1 and num2) and
-    adds them together to create a nre variable (arg_sum) which
+    adds them together to create a new variable (arg_sum) which
     is returned to the user. The value needs to be printed outside
     of the function either by passing it to a new variable or
     wrapping it in the print() method."""
