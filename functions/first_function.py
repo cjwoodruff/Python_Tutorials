@@ -10,7 +10,7 @@ def myAdd(num1, num2):
     # This could also be done with: return num1 + num2
 
 
-#TESTING:
+# TESTING:
 
 # Call myFunc() and pass two numbers through it and then print
 # the total value.
