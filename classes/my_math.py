@@ -21,7 +21,7 @@ class MyMath:
             return num1 + num2
 
     def mySubtract(num1, num2):
-        """Subtract num2 from num2"""
+        """Subtract num2 from num1"""
         if isinstance(num1, str):
             try:
                 num1 = flaot(num1)
