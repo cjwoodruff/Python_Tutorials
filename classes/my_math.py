@@ -20,6 +20,7 @@ class MyMath:
             num2 = float(num2)
             return num1 + num2
 
+        
     def mySubtract(num1, num2):
         """Subtract num2 from num1"""
         if isinstance(num1, str):
@@ -41,6 +42,7 @@ class MyMath:
             num2 = float(num2)
             return num1 - num2
 
+        
     def myMultiply(num1, num2):
         """Multiply num1 by num2"""
         if isinstance(num1, str):
@@ -62,6 +64,7 @@ class MyMath:
             num2 = float(num2)
             return num1 * num2
 
+        
     def myDivide(num1, num2):
         """Divide num1 by num2"""
         if isinstance(num1, str):
